@@ -61,11 +61,11 @@
 				EB9CA76A2BC3C055000125BA /* AppDelegate.swift */,
 				EB9CA76C2BC3C055000125BA /* SceneDelegate.swift */,
 				EB9CA76E2BC3C055000125BA /* ViewController.swift */,
+				EB9CA7852BC3F85B000125BA /* productSelectVC.swift */,
 				EB9CA7762BC3C057000125BA /* Assets.xcassets */,
 				EB9CA7782BC3C057000125BA /* LaunchScreen.storyboard */,
 				EB9CA77B2BC3C057000125BA /* Info.plist */,
 				EB9CA7732BC3C055000125BA /* Delegate_protocal.xcdatamodeld */,
-				EB9CA7852BC3F85B000125BA /* productSelectVC.swift */,
 			);
 			path = Delegate_protocal;
 			sourceTree = "<group>";
